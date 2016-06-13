@@ -1,0 +1,2 @@
+# OpenCVTest
+Exploring OpenCV
